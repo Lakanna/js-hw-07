@@ -27,4 +27,33 @@ list-style: none;
 .js-img{
   max-width: 300px;
   max-height: 200px;
+  
 }
+
+.form {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 32px;
+}
+
+select {
+  padding: 4px;
+}
+
+input {
+  width: 100%;
+  max-width: 320px;
+  padding: 8px;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+button {
+  display: inline-flex;
+  padding: 4px;
+  margin-right: 2px;
+  margin-left: 2px;
+  /* background-color: ; */
+}
+
